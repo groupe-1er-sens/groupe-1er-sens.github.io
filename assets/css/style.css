@@ -1219,8 +1219,8 @@ Ensure the default browser behavior of the `hidden` attribute.
 }.placeholder-gray-400::placeholder {
   --tw-placeholder-opacity: 1;
   color: rgb(156 163 175 / var(--tw-placeholder-opacity));
-}.opacity-75 {
-  opacity: 0.75;
+}.opacity-60 {
+  opacity: 0.6;
 }.shadow-lg {
   --tw-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-color), 0 4px 6px -4px var(--tw-shadow-color);
