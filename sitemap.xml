@@ -1,1 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?> <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> <url> <loc>http://groupe-1er-sens.github.io/about</loc> <lastmod>2022-09-18T20:32:34+02:00</lastmod> </url> <url> <loc>http://groupe-1er-sens.github.io/blog</loc> <lastmod>2022-09-18T20:32:34+02:00</lastmod> </url> <url> <loc>http://groupe-1er-sens.github.io/contact-us</loc> <lastmod>2022-09-18T20:32:34+02:00</lastmod> </url> <url> <loc>http://groupe-1er-sens.github.io/news</loc> <lastmod>2022-09-18T20:32:34+02:00</lastmod> </url> <url> <loc>http://groupe-1er-sens.github.io/privacy-policy</loc> <lastmod>2022-09-18T20:32:34+02:00</lastmod> </url> <url> <loc>http://groupe-1er-sens.github.io/terms</loc> <lastmod>2022-09-18T20:32:34+02:00</lastmod> </url> <url> <loc>http://groupe-1er-sens.github.io/news/welcome-to-jekyll</loc> <lastmod>2021-01-13T00:00:00+01:00</lastmod> </url> <url> <loc>http://groupe-1er-sens.github.io/news/soopr</loc> <lastmod>2021-02-03T00:00:00+01:00</lastmod> </url> <url> <loc>http://groupe-1er-sens.github.io/</loc> </url> </urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/about</loc>
+<lastmod>2022-09-19T19:35:14+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog</loc>
+<lastmod>2022-09-19T19:35:14+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/contact-us</loc>
+<lastmod>2022-09-19T19:35:14+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/contact-us.md</loc>
+<lastmod>2022-09-19T19:35:14+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/news</loc>
+<lastmod>2022-09-19T19:35:14+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/privacy-policy</loc>
+<lastmod>2022-09-19T19:35:14+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/terms</loc>
+<lastmod>2022-09-19T19:35:14+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/news/welcome-to-jekyll</loc>
+<lastmod>2021-01-13T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/news/soopr</loc>
+<lastmod>2021-02-03T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+</urlset>
